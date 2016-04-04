@@ -5,7 +5,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Diagnoosigrgfafaft</title>
-		<title>Diagnoosaggsafsigrgfafaft</title>
+		
 	</head>
 	<body>
 		<p>
