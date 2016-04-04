@@ -4,7 +4,7 @@
 <!doctype html>
 	<head>
 		<meta charset="utf-8">
-		<title>Diagnoosit</title>
+		<title>Diagnoosigrgfafaft</title>
 	</head>
 	<body>
 		<p>
